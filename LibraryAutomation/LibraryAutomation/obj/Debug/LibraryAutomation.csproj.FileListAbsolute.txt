@@ -1,0 +1,12 @@
+C:\Users\esraz\OneDrive\Masaüstü\LibraryAutomation\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.csproj.AssemblyReference.cache
+C:\Users\esraz\OneDrive\Masaüstü\LibraryAutomation\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.Form1.resources
+C:\Users\esraz\OneDrive\Masaüstü\LibraryAutomation\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.Properties.Resources.resources
+C:\Users\esraz\OneDrive\Masaüstü\LibraryAutomation\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.csproj.GenerateResource.cache
+C:\Users\esraz\OneDrive\Masaüstü\LibraryAutomation\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.csproj.CoreCompileInputs.cache
+C:\Users\esraz\OneDrive\Masaüstü\LibraryAutomation\LibraryAutomation\LibraryAutomation\bin\Debug\LibraryAutomation.exe.config
+C:\Users\esraz\OneDrive\Masaüstü\LibraryAutomation\LibraryAutomation\LibraryAutomation\bin\Debug\LibraryAutomation.exe
+C:\Users\esraz\OneDrive\Masaüstü\LibraryAutomation\LibraryAutomation\LibraryAutomation\bin\Debug\LibraryAutomation.pdb
+C:\Users\esraz\OneDrive\Masaüstü\LibraryAutomation\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.exe
+C:\Users\esraz\OneDrive\Masaüstü\LibraryAutomation\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.pdb
+C:\Users\esraz\OneDrive\Masaüstü\LibraryAutomation\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.Admin.resources
+C:\Users\esraz\OneDrive\Masaüstü\LibraryAutomation\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.User.resources
